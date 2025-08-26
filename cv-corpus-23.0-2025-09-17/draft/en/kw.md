@@ -5,12 +5,11 @@ for Cornish (`kw`).
 
 ## Language
 
-Kernewek is a Brythonic language, alongside Breton and Welsh, and part of the Celtic Indo-European language family. It is an indigenous language in the United Kingdom, with most speakers located in Cornwall. In the 2021 UK Census 567 people self-identified 'Cornish' as their main language. UNESCO has classified its status as "severely endangered".
+Cornish, or Kernewek, is a Brythonic language, alongside Breton and Welsh, and part of the Celtic Indo-European language family. It is an indigenous language in the United Kingdom, with most speakers located in Cornwall. In the 2021 UK Census 567 people self-identified Cornish as their main language. UNESCO has classified its status as "severely endangered".
 
 ### Variants 
 
-<!-- {{VARIANT_DESCRIPTION}} -->
-<!-- Describe the variants (MCV variants) of your language -->
+There are currently no variants defined for Cornish.
 
 ### Accents
 
@@ -18,15 +17,11 @@ Kernewek is a Brythonic language, alongside Breton and Welsh, and part of the Ce
 
 #### Predefined
 
-<!-- {{PREDEFINED_ACCENT_DESCRIPTION}} -->
-
-<!-- {{PREDEFINED_ACCENT_TABLE}} -->
+There are currently no pre-defined accents.
 
 #### User defined
 
-<!-- {{USER_DEFINED_ACCENT_DESCRPIPTION}} -->
-
-<!-- {{USER_DEFINED_ACCENT_TABLE}} -->
+There are currently no user-defined accents.
 
 ## Demographic information
 <!-- You can get a lot of the information in this section from https://analyzer.cv-toolbox.web.tr/browse -->
@@ -36,29 +31,26 @@ The dataset includes the following distribution of age and gender.
 
 Self-declared gender information, frequency refers to the number of clips annotated with this gender.
 
-<!-- {{GENDER_TABLE}} -->
-<!-- 
 | Gender | Frequency |
 |--------|-----------|
-| male, masculine | ? |
-| undeclared | ? |
-| female, feminine | ? |
--->
+| male, masculine | 0 |
+| undeclared | 6 |
+| female, feminine | 4 |
+
 ### Age
 
 Self-declared age information, frequency refers to the number of clips annotated with this age band.
 
-<!-- {{AGE_TABLE}} -->
-<!-- 
 | Age band | Frequency |
 |----------|-----------|
-| teens | ? |
-| twenties | ? |
-| thirties | ? |
-| fourties | ? |
-| fifties | ? |
-   ...if other age ranges are present in your data, add rows...
--->
+| teens | 0 |
+| twenties | 0 |
+| thirties | 0 |
+| fourties | 3 |
+| fifties | 1 |
+| sixties | 2 |
+| seventies | 1 |
+| undeclared | 3 |
 
 ## Text corpus
 
@@ -66,7 +58,7 @@ The dataset contains **13 validated hours** of speech from **10** unique
 contributors.
 | Type                |   Count | Hours |
 | ------------------- | ------: | ----: |
-| Validated Clips     |   9,609 |  13.00 |
+| Validated Clips     |   9,357 |  10.80 |
 | Invalidated Clips   |     0 |  0.00 |
 | **Total Clips**     |   9,609 |  13.00 |
 
@@ -94,8 +86,10 @@ There follows a randomly selected sample of five sentences from the corpus.
 
 ### Sources
 
-<!-- {{SOURCES_LIST}} -->
-<!-- A list of sentence sources, can be curated to the top-N -->
+The text for this dataset comes from the following sources:
+
+* IndyLan KW app
+* Individual sentences submitted by users through the Mozilla Common Voice interface (public domain)
 
 ### Text domains
 
@@ -104,13 +98,11 @@ There follows a randomly selected sample of five sentences from the corpus.
 
 ### Processing
 
-<!-- {{PROCESSING_DESCRIPTION}} -->
-<!-- How has the text data been processed -->
+* The IndyLan data contains conversational phrases. This work was expanded on specifically for Common Voice to include variations of pronouns, questions, and answers to cover a broad range of grammatical points.
 
 ### Recommended post-processing
 
-<!-- {{RECOMMENDED_POSTPROCESSING_DESCRIPTION}} -->
-<!-- What should people do before they use the data, for example Unicode normalisation -->
+* Check the data for Unicode errors in the Cornish. These should be the character "'".
 
 ## Get involved!
 
@@ -119,15 +111,12 @@ There follows a randomly selected sample of five sentences from the corpus.
 <!-- {{COMMUNITY_LINKS_LIST}} -->
 <!-- Links to community chats / fora -->
 
-### Discussions
-
-<!-- {{DISCUSSION_LINKS_LIST}} -->
-<!-- Any links to discussions, for example on Discourse or other fora or blogs can be included here -->
-
 ### Contribute
 
-<!-- {{CONTRIBUTE_LINKS_LIST}} -->
-<!-- Here you can include links for how to contribute to the dataset -->
+* [Contribute voice recordings](https://commonvoice.mozilla.org/kw/speak)
+* [Contribute sentences](https://commonvoice.mozilla.org/kw/write)
+* [Validate recordings](https://commonvoice.mozilla.org/kw/listen)
+* [Review sentences](https://commonvoice.mozilla.org/kw/review)
 
 ## Acknowledgements
 
