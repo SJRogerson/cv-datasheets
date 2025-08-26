@@ -62,24 +62,35 @@ Self-declared age information, frequency refers to the number of clips annotated
 
 ## Text corpus
 
-<!-- {{TEXT_CORPUS_DESCRIPTION}} -->
-<!-- An overview of the text corpus, with information such as average length (in characters and words) of validated sentences. -->
+The dataset contains **13 validated hours** of speech from **10** unique
+contributors.
+| Type                |   Count | Hours |
+| ------------------- | ------: | ----: |
+| Validated Clips     |   9,609 |  13.00 |
+| Invalidated Clips   |     0 |  0.00 |
+| **Total Clips**     |   9,609 |  13.00 |
+
+*   **Average sentence length (tokens):** 6.4
+*   **Average sentence length (characters):** 31
 
 ### Writing system
 
-<!-- {{WRITING_SYSTEM_DESCRIPTION}} -->
-<!-- A description of the writing system (or writing systems) used in the text corpus -->
+Cornish has several writing systems in place. The majority of this dataset uses the Standard Written Form. It uses the standard Latin alphabet as the basis and avoids the use of diacritic marks.
 
 #### Symbol table
 
-<!-- {{ALPHABET_TABLE}} -->
-<!-- If the writing system is alphabetic, you can include the valid alphabet here -->
+The dataset uses the following characters:
+**Alphabet**: `' -   ! , . ? a b c d e f g h i j k l m n o p r s t u v w x y z`
 
 ### Sample
 
 There follows a randomly selected sample of five sentences from the corpus.
 
-<!-- {{SENTENCES_SAMPLE}} -->
+*   A yllyn ni redya hemma?
+*   Marthys ens i.
+*   Esos. Yth esos ta ena y'n kornel.
+*   A wrussyn ni diwrosa yn uskis?
+*   Dha leveryans yw nebes da.
 
 ### Sources
 
