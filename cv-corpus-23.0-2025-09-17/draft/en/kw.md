@@ -5,8 +5,7 @@ for Cornish (`kw`).
 
 ## Language
 
-<!-- {{LANGUAGE_DESCRIPTION}} -->
-<!-- Provide a brief (1-2 paragraph) description of your language -->
+Kernewek is a Brythonic language, alongside Breton and Welsh, and part of the Celtic Indo-European language family. It is an indigenous language in the United Kingdom, with most speakers located in Cornwall. In the 2021 UK Census 567 people self-identified 'Cornish' as their main language. UNESCO has classified its status as "severely endangered".
 
 ### Variants 
 
@@ -133,8 +132,7 @@ There follows a randomly selected sample of five sentences from the corpus.
 
 ### Funding
 
-<!-- {{FUNDING_DESCRIPTION}} -->
-<!-- If you received any funding, you can include the acknowledgement here -->
+This dataset was funded by the Open Multilingual Speech Fund.
 
 ## Licence
 
