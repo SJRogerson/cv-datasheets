@@ -13,8 +13,6 @@ There are currently no variants defined for Cornish.
 
 ### Accents
 
-<!-- {{ACCENT_DESCRIPTION}} -->
-
 #### Predefined
 
 There are currently no pre-defined accents.
@@ -54,13 +52,13 @@ Self-declared age information, frequency refers to the number of clips annotated
 
 ## Text corpus
 
-The dataset contains **13 validated hours** of speech from **10** unique
+The dataset contains **10.8 validated hours** of speech from **10** unique
 contributors.
 | Type                |   Count | Hours |
 | ------------------- | ------: | ----: |
-| Validated Clips     |   9,357 |  10.80 |
+| Validated Clips     |   9,357 |  10.8 |
 | Invalidated Clips   |     0 |  0.00 |
-| **Total Clips**     |   9,609 |  13.00 |
+| **Total Clips**     |   9,357 |  10.8 |
 
 *   **Average sentence length (tokens):** 6.4
 *   **Average sentence length (characters):** 31
@@ -96,7 +94,7 @@ The text for this dataset comes from the following sources:
 
 ### Recommended post-processing
 
-* Check the data for Unicode errors in the Cornish. These should be the character "'".
+* Check the data for Unicode errors in the Cornish. These should be the character `'`.
 
 ## Get involved!
 
