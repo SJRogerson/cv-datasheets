@@ -5,7 +5,7 @@ for Cornish (`kw`).
 
 ## Language
 
-Cornish, or Kernewek, is a Brythonic language, alongside Breton and Welsh, and part of the Celtic Indo-European language family. It is an indigenous language in the United Kingdom, with most speakers located in Cornwall. In the 2021 UK Census 567 people self-identified Cornish as their main language. UNESCO has classified its status as "severely endangered".
+Cornish, or Kernewek, is a Brythonic language, alongside Breton and Welsh, and part of the Celtic Indo-European language family. It is an indigenous language of the United Kingdom, with most speakers located in Cornwall. In the 2021 UK Census 567 people self-identified Cornish as their main language. UNESCO has classified its status as "severely endangered".
 
 ### Variants 
 
@@ -34,8 +34,8 @@ Self-declared gender information, frequency refers to the number of clips annota
 | Gender | Frequency |
 |--------|-----------|
 | male, masculine | 0 |
-| undeclared | 6 |
-| female, feminine | 4 |
+| female, feminine | 3,550 |
+| undeclared | 5,807 |
 
 ### Age
 
@@ -46,11 +46,11 @@ Self-declared age information, frequency refers to the number of clips annotated
 | teens | 0 |
 | twenties | 0 |
 | thirties | 0 |
-| fourties | 3 |
-| fifties | 1 |
-| sixties | 2 |
-| seventies | 1 |
-| undeclared | 3 |
+| fourties | 3,540 |
+| fifties | 3,778 |
+| sixties | 241 |
+| seventies | 496 |
+| undeclared | 1,302 |
 
 ## Text corpus
 
@@ -67,12 +67,11 @@ contributors.
 
 ### Writing system
 
-Cornish has several writing systems in place. The majority of this dataset uses the Standard Written Form. It uses the standard Latin alphabet as the basis and avoids the use of diacritic marks.
+Cornish has several writing systems in place. The majority of this dataset uses the Standard Written Form, established in 2008.
 
 #### Symbol table
 
-The dataset uses the following characters:
-**Alphabet**: `' -   ! , . ? a b c d e f g h i j k l m n o p r s t u v w x y z`
+The dataset uses the following characters: `' -   ! , . ? a b c d e f g h i j k l m n o p r s t u v w x y z`
 
 ### Sample
 
@@ -88,28 +87,18 @@ There follows a randomly selected sample of five sentences from the corpus.
 
 The text for this dataset comes from the following sources:
 
-* IndyLan KW app
+* IndyLan Cornish course
 * Individual sentences submitted by users through the Mozilla Common Voice interface (public domain)
 
 ### Text domains
 
-<!-- {{TEXT_DOMAIN_DESCRIPTION}} -->
-<!-- What text domains are represented in the corpus? -->
-
-### Processing
-
-* The IndyLan data contains conversational phrases. This work was expanded on specifically for Common Voice to include variations of pronouns, questions, and answers to cover a broad range of grammatical points.
+* General — The majority of this dataset focuses on conversational phrases with the intention to cover a broad range of grammatical points.
 
 ### Recommended post-processing
 
 * Check the data for Unicode errors in the Cornish. These should be the character "'".
 
 ## Get involved!
-
-### Community links
-
-<!-- {{COMMUNITY_LINKS_LIST}} -->
-<!-- Links to community chats / fora -->
 
 ### Contribute
 
@@ -122,13 +111,7 @@ The text for this dataset comes from the following sources:
 
 ### Datasheet authors
 
-<!-- {{DATASHEET_AUTHORS_LIST}} -->
-<!-- A list in the format of: Your Name <email@email.com> -->
-
-### Citation guidelines
-
-<!-- {{CITATION_DESCRIPTION}} -->
-<!-- If you published a paper and would like people to cite it, you can include the BiBTeX here -->
+Sam Rogerson <cornishlanguage@cornwall.gov.uk>
 
 ### Funding
 
