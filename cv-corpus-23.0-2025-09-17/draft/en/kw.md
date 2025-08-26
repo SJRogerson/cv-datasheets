@@ -113,7 +113,7 @@ Sam Rogerson <cornishlanguage@cornwall.gov.uk>
 
 ### Funding
 
-This dataset was funded by the Open Multilingual Speech Fund.
+This dataset was partially funded by the Open Multilingual Speech Fund.
 
 ## Licence
 
